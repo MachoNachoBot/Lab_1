@@ -19,5 +19,3 @@ gcc -Wall -no-pie Task_4.s print_ram.c -o task4
 ./task3
 
 ./task4
-
-TA grading tip: If we can compile from your README, we can grade fast and fairly.
